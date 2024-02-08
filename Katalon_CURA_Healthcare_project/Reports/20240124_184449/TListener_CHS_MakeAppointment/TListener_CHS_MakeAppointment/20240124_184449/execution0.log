@@ -26,10 +26,10 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>hostName = rajes - RajeshBandaru.mshome.net</message>
+  <message>hostName = kareem-pc.mshome.net</message>
   <nestedLevel>0</nestedLevel>
   <escapedJava>false</escapedJava>
-  <property name="hostName">rajes - RajeshBandaru.mshome.net</property>
+  <property name="hostName">kareem-pc.mshome.net</property>
 </record>
 <record>
   <date>2024-01-24T18:44:58</date>
@@ -86,7 +86,7 @@
   <property name="description"></property>
   <property name="iteration"></property>
   <property name="id">Test Cases/TC_CHS_MakeAppointment/TC_CHS_MakeAppointement_002</property>
-  <property name="source">C:\Users\rajes\git\Katalon_CURA_Healthcare_project\Test Cases\TC_CHS_MakeAppointment\TC_CHS_MakeAppointement_002.tc</property>
+  <property name="source">C:\Users\kareem-pc\git\Katalon_CURA_Healthcare_project\Test Cases\TC_CHS_MakeAppointment\TC_CHS_MakeAppointement_002.tc</property>
   <property name="tag"></property>
   <property name="isOptional">false</property>
   <property name="currentRetryCount">0</property>
@@ -840,7 +840,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Start generating HTML report folder at: C:\Users\rajes\git\Katalon_CURA_Healthcare_project\Reports\20240124_184449\TListener_CHS_MakeAppointment\TListener_CHS_MakeAppointment\20240124_184449...</message>
+  <message>Start generating HTML report folder at: C:\Users\kareem-pc\git\Katalon_CURA_Healthcare_project\Reports\20240124_184449\TListener_CHS_MakeAppointment\TListener_CHS_MakeAppointment\20240124_184449...</message>
   <nestedLevel>0</nestedLevel>
   <escapedJava>false</escapedJava>
 </record>
@@ -864,7 +864,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Start generating CSV report folder at: C:\Users\rajes\git\Katalon_CURA_Healthcare_project\Reports\20240124_184449\TListener_CHS_MakeAppointment\TListener_CHS_MakeAppointment\20240124_184449...</message>
+  <message>Start generating CSV report folder at: C:\Users\kareem-pc\git\Katalon_CURA_Healthcare_project\Reports\20240124_184449\TListener_CHS_MakeAppointment\TListener_CHS_MakeAppointment\20240124_184449...</message>
   <nestedLevel>0</nestedLevel>
   <escapedJava>false</escapedJava>
 </record>

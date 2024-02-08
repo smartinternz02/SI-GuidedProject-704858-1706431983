@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuites name="Logout_Internal_Data" time="13.702" tests="1" failures="0" errors="0">
-   <testsuite name="Logout_Internal_Data" tests="1" failures="0" errors="0" time="13.702" skipped="0" timestamp="2024-02-02 20:50:56" hostname="rajes - RajeshBandaru.mshome.net" id="Test Suites/CHS_Logout_InternalData/Logout_Internal_Data">
+   <testsuite name="Logout_Internal_Data" tests="1" failures="0" errors="0" time="13.702" skipped="0" timestamp="2024-02-02 20:50:56" hostname="kareem-pc.mshome.net" id="Test Suites/CHS_Logout_InternalData/Logout_Internal_Data">
       <properties>
          <property name="deviceName" value=""/>
          <property name="devicePlatform" value=""/>
-         <property name="logFolder" value="C:\\Users\\rajes\\git\\Katalon_CURA_Healthcare_project\\Reports\\20240202_205019\\CHS_Logout_InternalData\\Logout_Internal_Data\\20240202_205033"/>
-         <property name="logFiles" value="C:\\Users\\rajes\\git\\Katalon_CURA_Healthcare_project\\Reports\\20240202_205019\\CHS_Logout_InternalData\\Logout_Internal_Data\\20240202_205033\\execution0.log"/>
+         <property name="logFolder" value="C:\\Users\\kareem-pc\\git\\Katalon_CURA_Healthcare_project\\Reports\\20240202_205019\\CHS_Logout_InternalData\\Logout_Internal_Data\\20240202_205033"/>
+         <property name="logFiles" value="C:\\Users\\kareem-pc\\git\\Katalon_CURA_Healthcare_project\\Reports\\20240202_205019\\CHS_Logout_InternalData\\Logout_Internal_Data\\20240202_205033\\execution0.log"/>
          <property name="attachments" value=""/>
-         <property name="hostName" value="rajes - RajeshBandaru.mshome.net"/>
+         <property name="hostName" value="kareem-pc.mshome.net"/>
          <property name="hostAddress" value="192.168.137.1"/>
          <property name="os" value="Windows 11 64bit"/>
          <property name="katalonVersion" value="8.6.8.208"/>
@@ -40,7 +40,7 @@
 	at TempTestSuite1706887233053.run(TempTestSuite1706887233053.groovy:36)
 Caused by: com.kms.katalon.core.webui.exception.BrowserNotOpenedException: Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 	at com.kms.katalon.core.webui.driver.DriverFactory.verifyWebDriverIsOpen(DriverFactory.java:1003)
 	at com.kms.katalon.core.webui.driver.DriverFactory.verifyWebDriver(DriverFactory.java:988)
@@ -86,7 +86,7 @@ Driver info: driver.version: unknown
 Caused by: org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 116
 Current browser version is 121.0.6167.86 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: CChromeDriver
 remote stacktrace: 	GetHandleVerifier [0x00007FF6492652A2+57122]
 	(No symbol) [0x00007FF6491DEA92]
@@ -163,7 +163,7 @@ remote stacktrace: 	GetHandleVerifier [0x00007FF6492652A2+57122]
 Caused by: org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 116
 Current browser version is 121.0.6167.86 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: CChromeDriver
 remote stacktrace: 	GetHandleVerifier [0x00007FF6492652A2+57122]
 	(No symbol) [0x00007FF6491DEA92]
@@ -235,7 +235,7 @@ remote stacktrace: 	GetHandleVerifier [0x00007FF6492652A2+57122]
 	at TempTestSuite1706887233053.run(TempTestSuite1706887233053.groovy:36)
 Caused by: com.kms.katalon.core.webui.exception.BrowserNotOpenedException: Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 	at com.kms.katalon.core.webui.driver.DriverFactory.verifyWebDriverIsOpen(DriverFactory.java:1003)
 	at com.kms.katalon.core.webui.driver.DriverFactory.verifyWebDriver(DriverFactory.java:988)
@@ -273,7 +273,7 @@ Driver info: driver.version: unknown
 	at TempTestSuite1706887233053.run(TempTestSuite1706887233053.groovy:36)
 Caused by: com.kms.katalon.core.webui.exception.BrowserNotOpenedException: Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 	at com.kms.katalon.core.webui.driver.DriverFactory.verifyWebDriverIsOpen(DriverFactory.java:1003)
 	at com.kms.katalon.core.webui.driver.DriverFactory.verifyWebDriver(DriverFactory.java:988)
@@ -309,7 +309,7 @@ Driver info: driver.version: unknown
 	at TempTestSuite1706887233053.run(TempTestSuite1706887233053.groovy:36)
 Caused by: com.kms.katalon.core.webui.exception.BrowserNotOpenedException: Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 	at com.kms.katalon.core.webui.driver.DriverFactory.verifyWebDriverIsOpen(DriverFactory.java:1003)
 	at com.kms.katalon.core.webui.driver.DriverFactory.verifyWebDriver(DriverFactory.java:988)
@@ -333,22 +333,22 @@ Driver info: driver.version: unknown
 
 2024-02-02 20:51:05 - [MESSAGE][WARNING] - [SELF-HEALING] Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 
 2024-02-02 20:51:05 - [MESSAGE][WARNING] - [SELF-HEALING] Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 
 2024-02-02 20:51:05 - [MESSAGE][WARNING] - [SELF-HEALING] Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 
 2024-02-02 20:51:05 - [MESSAGE][WARNING] - [SELF-HEALING] Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 
 2024-02-02 20:51:05 - [MESSAGE][WARNING] - Cannot take screenshot
@@ -378,7 +378,7 @@ Driver info: driver.version: unknown
 	at TempTestSuite1706887233053.run(TempTestSuite1706887233053.groovy:36)
 Caused by: com.kms.katalon.core.webui.exception.BrowserNotOpenedException: Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 	at com.kms.katalon.core.webui.driver.DriverFactory.verifyWebDriverIsOpen(DriverFactory.java:1003)
 	at com.kms.katalon.core.webui.driver.DriverFactory.verifyWebDriver(DriverFactory.java:988)
@@ -423,7 +423,7 @@ Driver info: driver.version: unknown
 Caused by: org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 116
 Current browser version is 121.0.6167.86 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: CChromeDriver
 remote stacktrace: 	GetHandleVerifier [0x00007FF6492652A2+57122]
 	(No symbol) [0x00007FF6491DEA92]
@@ -505,7 +505,7 @@ remote stacktrace: 	GetHandleVerifier [0x00007FF6492652A2+57122]
 Caused by: org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 116
 Current browser version is 121.0.6167.86 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: CChromeDriver
 remote stacktrace: 	GetHandleVerifier [0x00007FF6492652A2+57122]
 	(No symbol) [0x00007FF6491DEA92]
@@ -582,7 +582,7 @@ remote stacktrace: 	GetHandleVerifier [0x00007FF6492652A2+57122]
 	at TempTestSuite1706887233053.run(TempTestSuite1706887233053.groovy:36)
 Caused by: com.kms.katalon.core.webui.exception.BrowserNotOpenedException: Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 	at com.kms.katalon.core.webui.driver.DriverFactory.verifyWebDriverIsOpen(DriverFactory.java:1003)
 	at com.kms.katalon.core.webui.driver.DriverFactory.verifyWebDriver(DriverFactory.java:988)
@@ -625,7 +625,7 @@ Driver info: driver.version: unknown
 	at TempTestSuite1706887233053.run(TempTestSuite1706887233053.groovy:36)
 Caused by: com.kms.katalon.core.webui.exception.BrowserNotOpenedException: Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 	at com.kms.katalon.core.webui.driver.DriverFactory.verifyWebDriverIsOpen(DriverFactory.java:1003)
 	at com.kms.katalon.core.webui.driver.DriverFactory.verifyWebDriver(DriverFactory.java:988)
@@ -666,7 +666,7 @@ Driver info: driver.version: unknown
 	at TempTestSuite1706887233053.run(TempTestSuite1706887233053.groovy:36)
 Caused by: com.kms.katalon.core.webui.exception.BrowserNotOpenedException: Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 	at com.kms.katalon.core.webui.driver.DriverFactory.verifyWebDriverIsOpen(DriverFactory.java:1003)
 	at com.kms.katalon.core.webui.driver.DriverFactory.verifyWebDriver(DriverFactory.java:988)
@@ -696,22 +696,22 @@ Driver info: driver.version: unknown
 
 2024-02-02 20:51:09 - [MESSAGE][WARNING] - [SELF-HEALING] Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 
 2024-02-02 20:51:09 - [MESSAGE][WARNING] - [SELF-HEALING] Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 
 2024-02-02 20:51:09 - [MESSAGE][WARNING] - [SELF-HEALING] Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 
 2024-02-02 20:51:09 - [MESSAGE][WARNING] - [SELF-HEALING] Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 
 2024-02-02 20:51:09 - [MESSAGE][WARNING] - Cannot take screenshot
@@ -740,7 +740,7 @@ Driver info: driver.version: unknown
 	at TempTestSuite1706887233053.run(TempTestSuite1706887233053.groovy:36)
 Caused by: com.kms.katalon.core.webui.exception.BrowserNotOpenedException: Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 	at com.kms.katalon.core.webui.driver.DriverFactory.verifyWebDriverIsOpen(DriverFactory.java:1003)
 	at com.kms.katalon.core.webui.driver.DriverFactory.verifyWebDriver(DriverFactory.java:988)
@@ -790,7 +790,7 @@ Driver info: driver.version: unknown
 	at TempTestSuite1706887233053.run(TempTestSuite1706887233053.groovy:36)
 Caused by: com.kms.katalon.core.webui.exception.BrowserNotOpenedException: Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 	at com.kms.katalon.core.webui.driver.DriverFactory.verifyWebDriverIsOpen(DriverFactory.java:1003)
 	at com.kms.katalon.core.webui.driver.DriverFactory.verifyWebDriver(DriverFactory.java:988)
@@ -821,22 +821,22 @@ Driver info: driver.version: unknown
 
 2024-02-02 20:51:09 - [MESSAGE][WARNING] - [SELF-HEALING] Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 
 2024-02-02 20:51:09 - [MESSAGE][WARNING] - [SELF-HEALING] Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 
 2024-02-02 20:51:09 - [MESSAGE][WARNING] - [SELF-HEALING] Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 
 2024-02-02 20:51:09 - [MESSAGE][WARNING] - [SELF-HEALING] Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 
 2024-02-02 20:51:09 - [MESSAGE][WARNING] - Cannot take screenshot
@@ -865,7 +865,7 @@ Driver info: driver.version: unknown
 	at TempTestSuite1706887233053.run(TempTestSuite1706887233053.groovy:36)
 Caused by: com.kms.katalon.core.webui.exception.BrowserNotOpenedException: Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 	at com.kms.katalon.core.webui.driver.DriverFactory.verifyWebDriverIsOpen(DriverFactory.java:1003)
 	at com.kms.katalon.core.webui.driver.DriverFactory.verifyWebDriver(DriverFactory.java:988)
@@ -916,7 +916,7 @@ Driver info: driver.version: unknown
 	at TempTestSuite1706887233053.run(TempTestSuite1706887233053.groovy:36)
 Caused by: com.kms.katalon.core.webui.exception.BrowserNotOpenedException: Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 	at com.kms.katalon.core.webui.driver.DriverFactory.verifyWebDriverIsOpen(DriverFactory.java:1003)
 	at com.kms.katalon.core.webui.driver.DriverFactory.verifyWebDriver(DriverFactory.java:988)
@@ -947,22 +947,22 @@ Driver info: driver.version: unknown
 
 2024-02-02 20:51:09 - [MESSAGE][WARNING] - [SELF-HEALING] Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 
 2024-02-02 20:51:09 - [MESSAGE][WARNING] - [SELF-HEALING] Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 
 2024-02-02 20:51:09 - [MESSAGE][WARNING] - [SELF-HEALING] Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 
 2024-02-02 20:51:09 - [MESSAGE][WARNING] - [SELF-HEALING] Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 
 2024-02-02 20:51:09 - [MESSAGE][WARNING] - Cannot take screenshot
@@ -991,7 +991,7 @@ Driver info: driver.version: unknown
 	at TempTestSuite1706887233053.run(TempTestSuite1706887233053.groovy:36)
 Caused by: com.kms.katalon.core.webui.exception.BrowserNotOpenedException: Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 	at com.kms.katalon.core.webui.driver.DriverFactory.verifyWebDriverIsOpen(DriverFactory.java:1003)
 	at com.kms.katalon.core.webui.driver.DriverFactory.verifyWebDriver(DriverFactory.java:988)
@@ -1042,7 +1042,7 @@ Driver info: driver.version: unknown
 	at TempTestSuite1706887233053.run(TempTestSuite1706887233053.groovy:36)
 Caused by: com.kms.katalon.core.webui.exception.BrowserNotOpenedException: Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 	at com.kms.katalon.core.webui.driver.DriverFactory.verifyWebDriverIsOpen(DriverFactory.java:1003)
 	at com.kms.katalon.core.webui.driver.DriverFactory.verifyWebDriver(DriverFactory.java:988)
@@ -1072,22 +1072,22 @@ Driver info: driver.version: unknown
 
 2024-02-02 20:51:09 - [MESSAGE][WARNING] - [SELF-HEALING] Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 
 2024-02-02 20:51:09 - [MESSAGE][WARNING] - [SELF-HEALING] Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 
 2024-02-02 20:51:09 - [MESSAGE][WARNING] - [SELF-HEALING] Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 
 2024-02-02 20:51:09 - [MESSAGE][WARNING] - [SELF-HEALING] Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 
 2024-02-02 20:51:09 - [MESSAGE][WARNING] - Cannot take screenshot
@@ -1116,7 +1116,7 @@ Driver info: driver.version: unknown
 	at TempTestSuite1706887233053.run(TempTestSuite1706887233053.groovy:36)
 Caused by: com.kms.katalon.core.webui.exception.BrowserNotOpenedException: Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 	at com.kms.katalon.core.webui.driver.DriverFactory.verifyWebDriverIsOpen(DriverFactory.java:1003)
 	at com.kms.katalon.core.webui.driver.DriverFactory.verifyWebDriver(DriverFactory.java:988)
@@ -1166,7 +1166,7 @@ Driver info: driver.version: unknown
 	at TempTestSuite1706887233053.run(TempTestSuite1706887233053.groovy:36)
 Caused by: com.kms.katalon.core.webui.exception.BrowserNotOpenedException: Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 	at com.kms.katalon.core.webui.driver.DriverFactory.verifyWebDriverIsOpen(DriverFactory.java:1003)
 	at com.kms.katalon.core.webui.driver.DriverFactory.verifyWebDriver(DriverFactory.java:988)
@@ -1197,22 +1197,22 @@ Driver info: driver.version: unknown
 
 2024-02-02 20:51:09 - [MESSAGE][WARNING] - [SELF-HEALING] Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 
 2024-02-02 20:51:09 - [MESSAGE][WARNING] - [SELF-HEALING] Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 
 2024-02-02 20:51:09 - [MESSAGE][WARNING] - [SELF-HEALING] Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 
 2024-02-02 20:51:09 - [MESSAGE][WARNING] - [SELF-HEALING] Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 
 2024-02-02 20:51:09 - [MESSAGE][WARNING] - Cannot take screenshot
@@ -1241,7 +1241,7 @@ Driver info: driver.version: unknown
 	at TempTestSuite1706887233053.run(TempTestSuite1706887233053.groovy:36)
 Caused by: com.kms.katalon.core.webui.exception.BrowserNotOpenedException: Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 	at com.kms.katalon.core.webui.driver.DriverFactory.verifyWebDriverIsOpen(DriverFactory.java:1003)
 	at com.kms.katalon.core.webui.driver.DriverFactory.verifyWebDriver(DriverFactory.java:988)
@@ -1292,7 +1292,7 @@ Driver info: driver.version: unknown
 	at TempTestSuite1706887233053.run(TempTestSuite1706887233053.groovy:36)
 Caused by: com.kms.katalon.core.webui.exception.BrowserNotOpenedException: Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 	at com.kms.katalon.core.webui.driver.DriverFactory.verifyWebDriverIsOpen(DriverFactory.java:1003)
 	at com.kms.katalon.core.webui.driver.DriverFactory.verifyWebDriver(DriverFactory.java:988)
@@ -1322,22 +1322,22 @@ Driver info: driver.version: unknown
 
 2024-02-02 20:51:10 - [MESSAGE][WARNING] - [SELF-HEALING] Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 
 2024-02-02 20:51:10 - [MESSAGE][WARNING] - [SELF-HEALING] Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 
 2024-02-02 20:51:10 - [MESSAGE][WARNING] - [SELF-HEALING] Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 
 2024-02-02 20:51:10 - [MESSAGE][WARNING] - [SELF-HEALING] Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 
 2024-02-02 20:51:10 - [MESSAGE][WARNING] - Cannot take screenshot
@@ -1366,7 +1366,7 @@ Driver info: driver.version: unknown
 	at TempTestSuite1706887233053.run(TempTestSuite1706887233053.groovy:36)
 Caused by: com.kms.katalon.core.webui.exception.BrowserNotOpenedException: Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 	at com.kms.katalon.core.webui.driver.DriverFactory.verifyWebDriverIsOpen(DriverFactory.java:1003)
 	at com.kms.katalon.core.webui.driver.DriverFactory.verifyWebDriver(DriverFactory.java:988)
@@ -1416,7 +1416,7 @@ Driver info: driver.version: unknown
 	at TempTestSuite1706887233053.run(TempTestSuite1706887233053.groovy:36)
 Caused by: com.kms.katalon.core.webui.exception.BrowserNotOpenedException: Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 	at com.kms.katalon.core.webui.driver.DriverFactory.verifyWebDriverIsOpen(DriverFactory.java:1003)
 	at com.kms.katalon.core.webui.driver.DriverFactory.verifyWebDriver(DriverFactory.java:988)
@@ -1446,22 +1446,22 @@ Driver info: driver.version: unknown
 
 2024-02-02 20:51:10 - [MESSAGE][WARNING] - [SELF-HEALING] Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 
 2024-02-02 20:51:10 - [MESSAGE][WARNING] - [SELF-HEALING] Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 
 2024-02-02 20:51:10 - [MESSAGE][WARNING] - [SELF-HEALING] Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 
 2024-02-02 20:51:10 - [MESSAGE][WARNING] - [SELF-HEALING] Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 
 2024-02-02 20:51:10 - [MESSAGE][WARNING] - Cannot take screenshot
@@ -1490,7 +1490,7 @@ Driver info: driver.version: unknown
 	at TempTestSuite1706887233053.run(TempTestSuite1706887233053.groovy:36)
 Caused by: com.kms.katalon.core.webui.exception.BrowserNotOpenedException: Browser is not opened
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'RAJESHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+System info: host: 'kareem-pcHBANDARU', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
 Driver info: driver.version: unknown
 	at com.kms.katalon.core.webui.driver.DriverFactory.verifyWebDriverIsOpen(DriverFactory.java:1003)
 	at com.kms.katalon.core.webui.driver.DriverFactory.verifyWebDriver(DriverFactory.java:988)

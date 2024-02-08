@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuites name="CHS_Login_Excel_TestSuite" time="20.338" tests="1" failures="0" errors="0">
-   <testsuite name="CHS_Login_Excel_TestSuite" tests="1" failures="0" errors="0" time="20.338" skipped="0" timestamp="2024-01-24 18:19:02" hostname="rajes - RajeshBandaru.mshome.net" id="Test Suites/CHS_Login_Excel_TestSuite/CHS_Login_Excel_TestSuite">
+   <testsuite name="CHS_Login_Excel_TestSuite" tests="1" failures="0" errors="0" time="20.338" skipped="0" timestamp="2024-01-24 18:19:02" hostname="kareem-pc.mshome.net" id="Test Suites/CHS_Login_Excel_TestSuite/CHS_Login_Excel_TestSuite">
       <properties>
          <property name="deviceName" value=""/>
          <property name="devicePlatform" value=""/>
-         <property name="logFolder" value="C:\\Users\\rajes\\git\\Katalon_CURA_Healthcare_project\\Reports\\20240124_181853\\CHS_Login_Excel_TestSuite\\CHS_Login_Excel_TestSuite\\20240124_181853"/>
-         <property name="logFiles" value="C:\\Users\\rajes\\git\\Katalon_CURA_Healthcare_project\\Reports\\20240124_181853\\CHS_Login_Excel_TestSuite\\CHS_Login_Excel_TestSuite\\20240124_181853\\execution0.log"/>
+         <property name="logFolder" value="C:\\Users\\kareem-pc\\git\\Katalon_CURA_Healthcare_project\\Reports\\20240124_181853\\CHS_Login_Excel_TestSuite\\CHS_Login_Excel_TestSuite\\20240124_181853"/>
+         <property name="logFiles" value="C:\\Users\\kareem-pc\\git\\Katalon_CURA_Healthcare_project\\Reports\\20240124_181853\\CHS_Login_Excel_TestSuite\\CHS_Login_Excel_TestSuite\\20240124_181853\\execution0.log"/>
          <property name="attachments" value=""/>
-         <property name="hostName" value="rajes - RajeshBandaru.mshome.net"/>
+         <property name="hostName" value="kareem-pc.mshome.net"/>
          <property name="os" value="Windows 11 64bit"/>
          <property name="katalonVersion" value="8.6.8.208"/>
          <property name="browser" value="Chrome 120.0.0.0"/>

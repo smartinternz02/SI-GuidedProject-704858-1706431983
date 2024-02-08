@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuites name="Logout_Internal_Data" time="30.677" tests="1" failures="0" errors="0">
-   <testsuite name="Logout_Internal_Data" tests="1" failures="0" errors="0" time="30.677" skipped="0" timestamp="2024-01-25 15:00:45" hostname="rajes - RajeshBandaru" id="Test Suites/CHS_Logout_InternalData/Logout_Internal_Data">
+   <testsuite name="Logout_Internal_Data" tests="1" failures="0" errors="0" time="30.677" skipped="0" timestamp="2024-01-25 15:00:45" hostname="kareem-pc" id="Test Suites/CHS_Logout_InternalData/Logout_Internal_Data">
       <properties>
          <property name="deviceName" value=""/>
          <property name="devicePlatform" value=""/>
-         <property name="logFolder" value="C:\\Users\\rajes\\git\\Katalon_CURA_Healthcare_project\\Reports\\20240125_150035\\CHS_Logout_InternalData\\Logout_Internal_Data\\20240125_150035"/>
-         <property name="logFiles" value="C:\\Users\\rajes\\git\\Katalon_CURA_Healthcare_project\\Reports\\20240125_150035\\CHS_Logout_InternalData\\Logout_Internal_Data\\20240125_150035\\execution0.log"/>
+         <property name="logFolder" value="C:\\Users\\kareem-pc\\git\\Katalon_CURA_Healthcare_project\\Reports\\20240125_150035\\CHS_Logout_InternalData\\Logout_Internal_Data\\20240125_150035"/>
+         <property name="logFiles" value="C:\\Users\\kareem-pc\\git\\Katalon_CURA_Healthcare_project\\Reports\\20240125_150035\\CHS_Logout_InternalData\\Logout_Internal_Data\\20240125_150035\\execution0.log"/>
          <property name="attachments" value=""/>
-         <property name="hostName" value="rajes - RajeshBandaru"/>
+         <property name="hostName" value="kareem-pc"/>
          <property name="os" value="Windows 11 64bit"/>
          <property name="katalonVersion" value="8.6.8.208"/>
          <property name="browser" value="Chrome 120.0.0.0"/>
