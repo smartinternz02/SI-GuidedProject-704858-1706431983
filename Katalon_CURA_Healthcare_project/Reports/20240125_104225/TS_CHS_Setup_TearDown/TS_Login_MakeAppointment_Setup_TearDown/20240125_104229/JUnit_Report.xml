@@ -4,8 +4,8 @@
       <properties>
          <property name="deviceName" value=""/>
          <property name="devicePlatform" value=""/>
-         <property name="logFolder" value="C:\\Users\\kareem-pc\\git\\Katalon_CURA_Healthcare_project\\Reports\\20240125_104225\\TS_CHS_Setup_TearDown\\TS_Login_MakeAppointment_Setup_TearDown\\20240125_104229"/>
-         <property name="logFiles" value="C:\\Users\\kareem-pc\\git\\Katalon_CURA_Healthcare_project\\Reports\\20240125_104225\\TS_CHS_Setup_TearDown\\TS_Login_MakeAppointment_Setup_TearDown\\20240125_104229\\execution0.log"/>
+         <property name="logFolder" value="C:\\Users\\rajes\\git\\Katalon_CURA_Healthcare_project\\Reports\\20240125_104225\\TS_CHS_Setup_TearDown\\TS_Login_MakeAppointment_Setup_TearDown\\20240125_104229"/>
+         <property name="logFiles" value="C:\\Users\\rajes\\git\\Katalon_CURA_Healthcare_project\\Reports\\20240125_104225\\TS_CHS_Setup_TearDown\\TS_Login_MakeAppointment_Setup_TearDown\\20240125_104229\\execution0.log"/>
          <property name="attachments" value=""/>
          <property name="hostName" value="kareem-pc.mshome.net"/>
          <property name="os" value="Windows 11 64bit"/>

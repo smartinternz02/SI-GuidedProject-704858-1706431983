@@ -4,8 +4,8 @@
       <properties>
          <property name="deviceName"/>
          <property name="devicePlatform" value="WINDOWS"/>
-         <property name="logFolder" value="C:\\Users\\kareem-pc\\git\\Katalon_CURA_Healthcare_project\\Reports\\20240124_095051\\TListener_CHS_MakeAppointment\\TListener_CHS_MakeAppointment\\20240124_095053"/>
-         <property name="logFiles" value="C:\\Users\\kareem-pc\\git\\Katalon_CURA_Healthcare_project\\Reports\\20240124_095051\\TListener_CHS_MakeAppointment\\TListener_CHS_MakeAppointment\\20240124_095053\\execution0.log"/>
+         <property name="logFolder" value="C:\\Users\\rajes\\git\\Katalon_CURA_Healthcare_project\\Reports\\20240124_095051\\TListener_CHS_MakeAppointment\\TListener_CHS_MakeAppointment\\20240124_095053"/>
+         <property name="logFiles" value="C:\\Users\\rajes\\git\\Katalon_CURA_Healthcare_project\\Reports\\20240124_095051\\TListener_CHS_MakeAppointment\\TListener_CHS_MakeAppointment\\20240124_095053\\execution0.log"/>
          <property name="attachments" value=""/>
          <property name="hostName" value="kareem-pc"/>
          <property name="remoteDriverUrl" value="testcloud.katalon.com/hub"/>

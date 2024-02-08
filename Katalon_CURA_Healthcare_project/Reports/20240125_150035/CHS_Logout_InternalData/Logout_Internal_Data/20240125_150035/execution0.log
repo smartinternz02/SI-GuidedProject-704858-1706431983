@@ -86,7 +86,7 @@
   <property name="description"></property>
   <property name="iteration"></property>
   <property name="id">Test Cases/TC_CHS_Logout/TC_CHS_Logout_004</property>
-  <property name="source">C:\Users\kareem-pc\git\Katalon_CURA_Healthcare_project\Test Cases\TC_CHS_Logout\TC_CHS_Logout_004.tc</property>
+  <property name="source">C:\Users\rajes\git\Katalon_CURA_Healthcare_project\Test Cases\TC_CHS_Logout\TC_CHS_Logout_004.tc</property>
   <property name="tag"></property>
   <property name="isOptional">false</property>
   <property name="currentRetryCount">0</property>
@@ -983,7 +983,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Start generating HTML report folder at: C:\Users\kareem-pc\git\Katalon_CURA_Healthcare_project\Reports\20240125_150035\CHS_Logout_InternalData\Logout_Internal_Data\20240125_150035...</message>
+  <message>Start generating HTML report folder at: C:\Users\rajes\git\Katalon_CURA_Healthcare_project\Reports\20240125_150035\CHS_Logout_InternalData\Logout_Internal_Data\20240125_150035...</message>
   <nestedLevel>0</nestedLevel>
   <escapedJava>false</escapedJava>
 </record>
@@ -1007,7 +1007,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Start generating CSV report folder at: C:\Users\kareem-pc\git\Katalon_CURA_Healthcare_project\Reports\20240125_150035\CHS_Logout_InternalData\Logout_Internal_Data\20240125_150035...</message>
+  <message>Start generating CSV report folder at: C:\Users\rajes\git\Katalon_CURA_Healthcare_project\Reports\20240125_150035\CHS_Logout_InternalData\Logout_Internal_Data\20240125_150035...</message>
   <nestedLevel>0</nestedLevel>
   <escapedJava>false</escapedJava>
 </record>

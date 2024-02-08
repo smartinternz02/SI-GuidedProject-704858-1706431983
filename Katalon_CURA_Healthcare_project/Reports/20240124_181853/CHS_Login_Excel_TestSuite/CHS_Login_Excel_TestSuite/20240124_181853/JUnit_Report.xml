@@ -4,8 +4,8 @@
       <properties>
          <property name="deviceName" value=""/>
          <property name="devicePlatform" value=""/>
-         <property name="logFolder" value="C:\\Users\\kareem-pc\\git\\Katalon_CURA_Healthcare_project\\Reports\\20240124_181853\\CHS_Login_Excel_TestSuite\\CHS_Login_Excel_TestSuite\\20240124_181853"/>
-         <property name="logFiles" value="C:\\Users\\kareem-pc\\git\\Katalon_CURA_Healthcare_project\\Reports\\20240124_181853\\CHS_Login_Excel_TestSuite\\CHS_Login_Excel_TestSuite\\20240124_181853\\execution0.log"/>
+         <property name="logFolder" value="C:\\Users\\rajes\\git\\Katalon_CURA_Healthcare_project\\Reports\\20240124_181853\\CHS_Login_Excel_TestSuite\\CHS_Login_Excel_TestSuite\\20240124_181853"/>
+         <property name="logFiles" value="C:\\Users\\rajes\\git\\Katalon_CURA_Healthcare_project\\Reports\\20240124_181853\\CHS_Login_Excel_TestSuite\\CHS_Login_Excel_TestSuite\\20240124_181853\\execution0.log"/>
          <property name="attachments" value=""/>
          <property name="hostName" value="kareem-pc.mshome.net"/>
          <property name="os" value="Windows 11 64bit"/>

@@ -4,8 +4,8 @@
       <properties>
          <property name="deviceName" value=""/>
          <property name="devicePlatform" value=""/>
-         <property name="logFolder" value="C:\\Users\\kareem-pc\\git\\Katalon_CURA_Healthcare_project\\Reports\\20240124_183601\\TListener_CHS_MakeAppointment\\CHS_MakeAppointment_Internal_Data\\20240124_183601"/>
-         <property name="logFiles" value="C:\\Users\\kareem-pc\\git\\Katalon_CURA_Healthcare_project\\Reports\\20240124_183601\\TListener_CHS_MakeAppointment\\CHS_MakeAppointment_Internal_Data\\20240124_183601\\execution0.log"/>
+         <property name="logFolder" value="C:\\Users\\rajes\\git\\Katalon_CURA_Healthcare_project\\Reports\\20240124_183601\\TListener_CHS_MakeAppointment\\CHS_MakeAppointment_Internal_Data\\20240124_183601"/>
+         <property name="logFiles" value="C:\\Users\\rajes\\git\\Katalon_CURA_Healthcare_project\\Reports\\20240124_183601\\TListener_CHS_MakeAppointment\\CHS_MakeAppointment_Internal_Data\\20240124_183601\\execution0.log"/>
          <property name="attachments" value=""/>
          <property name="hostName" value="kareem-pc.mshome.net"/>
          <property name="os" value="Windows 11 64bit"/>
