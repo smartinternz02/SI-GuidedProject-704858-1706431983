@@ -26,10 +26,10 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>hostName = rajes - RajeshBandaru</message>
+  <message>hostName = Kareem-pc</message>
   <nestedLevel>0</nestedLevel>
   <escapedJava>false</escapedJava>
-  <property name="hostName">rajes - RajeshBandaru</property>
+  <property name="hostName">Kareem-pc</property>
 </record>
 <record>
   <date>2024-01-23T21:38:39</date>
@@ -86,7 +86,7 @@
   <property name="description"></property>
   <property name="iteration"></property>
   <property name="id">Test Cases/TC_CHS_Login/TC_CHS_Login_001</property>
-  <property name="source">C:\Users\rajes\git\Katalon_CURA_Healthcare_project\Test Cases\TC_CHS_Login\TC_CHS_Login_001.tc</property>
+  <property name="source">C:\Users\Kareem-pc\git\Katalon_CURA_Healthcare_project\Test Cases\TC_CHS_Login\TC_CHS_Login_001.tc</property>
   <property name="tag"></property>
   <property name="isOptional">false</property>
   <property name="currentRetryCount">0</property>
@@ -550,7 +550,7 @@
   <property name="description"></property>
   <property name="iteration"></property>
   <property name="id">Test Cases/TC_CHS_Login/TC_CHS_Login_001</property>
-  <property name="source">C:\Users\rajes\git\Katalon_CURA_Healthcare_project\Test Cases\TC_CHS_Login\TC_CHS_Login_001.tc</property>
+  <property name="source">C:\Users\Kareem-pc\git\Katalon_CURA_Healthcare_project\Test Cases\TC_CHS_Login\TC_CHS_Login_001.tc</property>
   <property name="tag"></property>
   <property name="isOptional">false</property>
   <property name="currentRetryCount">0</property>
@@ -1014,7 +1014,7 @@
   <property name="description"></property>
   <property name="iteration"></property>
   <property name="id">Test Cases/TC_CHS_Login/TC_CHS_Login_001</property>
-  <property name="source">C:\Users\rajes\git\Katalon_CURA_Healthcare_project\Test Cases\TC_CHS_Login\TC_CHS_Login_001.tc</property>
+  <property name="source">C:\Users\Kareem-pc\git\Katalon_CURA_Healthcare_project\Test Cases\TC_CHS_Login\TC_CHS_Login_001.tc</property>
   <property name="tag"></property>
   <property name="isOptional">false</property>
   <property name="currentRetryCount">0</property>
@@ -1482,7 +1482,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Start generating HTML report folder at: C:\Users\rajes\git\Katalon_CURA_Healthcare_project\Reports\20240123_213834\CHS_Login_Excel_TestSuite\CHS_Login_Excel_TestSuite\20240123_213835...</message>
+  <message>Start generating HTML report folder at: C:\Users\Kareem-pc\git\Katalon_CURA_Healthcare_project\Reports\20240123_213834\CHS_Login_Excel_TestSuite\CHS_Login_Excel_TestSuite\20240123_213835...</message>
   <nestedLevel>0</nestedLevel>
   <escapedJava>false</escapedJava>
 </record>
@@ -1506,7 +1506,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Start generating CSV report folder at: C:\Users\rajes\git\Katalon_CURA_Healthcare_project\Reports\20240123_213834\CHS_Login_Excel_TestSuite\CHS_Login_Excel_TestSuite\20240123_213835...</message>
+  <message>Start generating CSV report folder at: C:\Users\Kareem-pc\git\Katalon_CURA_Healthcare_project\Reports\20240123_213834\CHS_Login_Excel_TestSuite\CHS_Login_Excel_TestSuite\20240123_213835...</message>
   <nestedLevel>0</nestedLevel>
   <escapedJava>false</escapedJava>
 </record>
@@ -1606,7 +1606,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>27</thread>
-  <message>Reading excel file with source file &amp;apos;C:\Users\rajes\git\Katalon_CURA_Healthcare_project\Data Drive Testing\TestData_CURA_Login.xlsx&amp;apos; and sheet name &amp;apos;Sheet1&amp;apos;</message>
+  <message>Reading excel file with source file &amp;apos;C:\Users\Kareem-pc\git\Katalon_CURA_Healthcare_project\Data Drive Testing\TestData_CURA_Login.xlsx&amp;apos; and sheet name &amp;apos;Sheet1&amp;apos;</message>
   <nestedLevel>0</nestedLevel>
   <escapedJava>false</escapedJava>
 </record>
@@ -1666,7 +1666,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>114</thread>
-  <message>Reading excel file with source file &amp;apos;C:\Users\rajes\git\Katalon_CURA_Healthcare_project\Data Drive Testing\TestData_CURA_Login.xlsx&amp;apos; and sheet name &amp;apos;Sheet1&amp;apos;</message>
+  <message>Reading excel file with source file &amp;apos;C:\Users\Kareem-pc\git\Katalon_CURA_Healthcare_project\Data Drive Testing\TestData_CURA_Login.xlsx&amp;apos; and sheet name &amp;apos;Sheet1&amp;apos;</message>
   <nestedLevel>0</nestedLevel>
   <escapedJava>false</escapedJava>
 </record>
